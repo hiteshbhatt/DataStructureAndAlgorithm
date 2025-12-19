@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinAndMaxNumberSingleScan",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumberProblem", "SingleNumberProblem\SingleNumberProblem.csproj", "{D2034B0B-45A1-4853-AB37-F8B933FB7234}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryExponentionAlgo", "BinaryExponentionAlgo\BinaryExponentionAlgo.csproj", "{855CC433-3E30-4A35-8786-E75404CA9D97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{D2034B0B-45A1-4853-AB37-F8B933FB7234}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2034B0B-45A1-4853-AB37-F8B933FB7234}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2034B0B-45A1-4853-AB37-F8B933FB7234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855CC433-3E30-4A35-8786-E75404CA9D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855CC433-3E30-4A35-8786-E75404CA9D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855CC433-3E30-4A35-8786-E75404CA9D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855CC433-3E30-4A35-8786-E75404CA9D97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
