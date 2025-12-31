@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumberProblem", "Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryExponentionAlgo", "BinaryExponentionAlgo\BinaryExponentionAlgo.csproj", "{855CC433-3E30-4A35-8786-E75404CA9D97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyOrSellStock", "BestTimeToBuyOrSellStock\BestTimeToBuyOrSellStock.csproj", "{0DCD53AA-4A94-481E-B464-48C4FA596D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMaximumWater", "ContainerWithMaximumWater\ContainerWithMaximumWater.csproj", "{6BF109F0-918F-45C9-9F75-E72057E949EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{855CC433-3E30-4A35-8786-E75404CA9D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{855CC433-3E30-4A35-8786-E75404CA9D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{855CC433-3E30-4A35-8786-E75404CA9D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCD53AA-4A94-481E-B464-48C4FA596D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCD53AA-4A94-481E-B464-48C4FA596D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCD53AA-4A94-481E-B464-48C4FA596D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCD53AA-4A94-481E-B464-48C4FA596D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF109F0-918F-45C9-9F75-E72057E949EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF109F0-918F-45C9-9F75-E72057E949EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF109F0-918F-45C9-9F75-E72057E949EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF109F0-918F-45C9-9F75-E72057E949EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
