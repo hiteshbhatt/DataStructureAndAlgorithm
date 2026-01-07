@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyOrSellStock", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMaximumWater", "ContainerWithMaximumWater\ContainerWithMaximumWater.csproj", "{6BF109F0-918F-45C9-9F75-E72057E949EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{6BF109F0-918F-45C9-9F75-E72057E949EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BF109F0-918F-45C9-9F75-E72057E949EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BF109F0-918F-45C9-9F75-E72057E949EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
