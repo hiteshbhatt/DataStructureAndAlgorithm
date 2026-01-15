@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMaximumWater",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRoatedSortedArray", "SearchInRoatedSortedArray\SearchInRoatedSortedArray.csproj", "{EE729D0D-2F4E-4625-B669-4BC0AAA37A52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D4DBF6C-14B8-4307-8BEB-3D2C91CC1310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE729D0D-2F4E-4625-B669-4BC0AAA37A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE729D0D-2F4E-4625-B669-4BC0AAA37A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE729D0D-2F4E-4625-B669-4BC0AAA37A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE729D0D-2F4E-4625-B669-4BC0AAA37A52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
